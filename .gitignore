@@ -1,5 +1,6 @@
-data/raw/
+﻿data/raw/
 data/processed/
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
+notebooks/modeling/catboost_info/
